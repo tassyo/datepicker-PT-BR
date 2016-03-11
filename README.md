@@ -7,13 +7,9 @@ Modo de uso
 
 2º Importar o datepicker-br.js onde for utilizar a validação
 
-3º Modo de uso :
+3º Exemplo de uso no arquivo example.js
 
-$(document).ready(function () {
-	$("#datepicker").datepicker(
-		$.datepicker.setDefaults( $.datepicker.regional['BR'])
-	);	
-});
+
 
 
 
